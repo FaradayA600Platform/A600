@@ -1,2 +1,2 @@
 # A600
-Resource 
+Doc and resource files
